@@ -11,7 +11,6 @@ AI Travel Planner is a smart travel assistant that helps users discover destinat
 ## Screenshots
 
 
-![Screenshot 1](https://github.com/user-attachments/assets/8be09761-a8d1-4a0f-a365-425ddb4e688e)
 ![Screenshot 2](https://github.com/user-attachments/assets/b7dd2f12-291d-4645-9533-7cc5298ef6fe)
 ![Screenshot 3](https://github.com/user-attachments/assets/bd0cfefd-8aad-4b66-a516-58a899f86d3a)
 ![Screenshot 4](https://github.com/user-attachments/assets/c859c344-80fb-4222-8b06-f9225275189b)
