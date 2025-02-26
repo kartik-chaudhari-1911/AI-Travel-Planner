@@ -1,6 +1,6 @@
 # AI Trip Advisor
 
-AI Travel Planner is a smart travel assistant that helps users discover destinations, plan trips, and get personalized recommendations using AI. It integrates Google Places API, Gemini API, and Auth-Client API for real-time data and authentication. Secure login is managed with Firebase Authentication, ensuring a seamless user experience.
+This repository contains the code for an AI-driven Trip Advisor, which generates customized trips with hotel recommendations and itineraries based on user budgets and travel preferences. Due to the use of Google Maps Places (NEW), Photos, and Geolocation APIs, this project has a restriction of staying under an expenditure of $200 monthly, hence no deployed link is provided.
 
 ## Features
 
